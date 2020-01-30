@@ -11,3 +11,6 @@ class Question5
         System.out.println("Sum:="+sum);
   }
 }
+/* Amrit Anand Pal
+   R177218009
+   500069940*/
